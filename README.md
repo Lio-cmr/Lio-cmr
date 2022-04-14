@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lio-cmr
-- 👀 I’m interested in football
+- 👀 I’m interested about all handling data
 - 🌱 I’m currently learning at Aims Senegal
 - 💞️ I’m looking to collaborate on Data Analyst
 - 📫 How to reach me on lionelkomen08@gmail.com
