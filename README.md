@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lio-cmr
 - 👀 I’m interested about all handling data
 - 🌱 I’m currently learning at Aims Senegal
-- 💞️ I’m looking to collaborate on Data Analyst
+- 💞️ I’m looking to collaborate on Data Science, Machine Learning and Deep Learning problem
 - 📫 How to reach me on lionelkomen08@gmail.com
 
 <!---
