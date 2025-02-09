@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lio-cmr
+- 👋 Hi, I’m Lionel
 - 👀 I’m interested about all handling data
 - 🌱 I’m currently learning at Aims Senegal
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning and Deep Learning problem
